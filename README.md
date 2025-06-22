@@ -54,4 +54,4 @@ These projects are provided for educational purposes only. Please do not plagiar
 
 ## Author
 Justine Tolin
-(GitHub Profile)[https://github.com/justinetolin]
+[GitHub Profile](https://github.com/justinetolin)
