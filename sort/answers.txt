@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Performs well in sorted but unexpectedly worst in reversed since it probally need to swap many numbers.
+
+sort2 uses: Merge Sort
+
+How do you know?: I say the times are pretty consistent but mainly, I canceled out selection sort for this since they're faster than sort 3
+
+sort3 uses: Selection Sort
+
+How do you know?: Consistent with the number of data, something like quadratic when graph tho hard to see that as compared to other sorts but mainly its slower than sort 2.

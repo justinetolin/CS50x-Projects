@@ -1,0 +1,6 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+1. Well, aside from danceability, energy, and valence, I would like to consider the tempo. Tempo refers to the beat of the music and a person might probably like some fast beat musics or sometimes cry on some slow ones.
+
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+2. Using my answer in the previous answer which is considering the tempo in the calculation. I'll set first a range of these values to identify them as slow to fast, maybe some scale of up to 5. Then cosnider the highest frequency in the scale and if, for example, 5 has the highest, then the aurio aura would be kinda bright, happy, and something with good mood. The opposite goes to a 1 in the scale.

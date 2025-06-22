@@ -1,0 +1,4 @@
+Program,random5000.txt,random10000.txt,random50000.txt,reversed5000.txt,reversed10000.txt,reversed50000.txt,sorted5000.txt,sorted10000.txt,sorted50000.txt
+./sort1,0.034,0.145,5.111,0.043,0.191,4.519,0.001,0.002,0.008
+./sort2,0.002,0.004,0.015,0.002,0.003,0.011,0.002,0.003,0.011
+./sort3,0.02,0.07,1.758,0.021,0.081,2.088,0.019,0.069,1.717
